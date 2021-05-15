@@ -1,0 +1,13 @@
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+rtos_mutex\port.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+rtos_mutex\port.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+rtos_mutex\port.o: ../Inc/FreeRTOSConfig.h
+rtos_mutex\port.o: ../Inc/mxconstants.h
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+rtos_mutex\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
