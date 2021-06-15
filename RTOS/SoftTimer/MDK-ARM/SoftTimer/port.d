@@ -1,0 +1,13 @@
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+softtimer\port.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+softtimer\port.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+softtimer\port.o: ../Inc/FreeRTOSConfig.h
+softtimer\port.o: ../Inc/mxconstants.h
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+softtimer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

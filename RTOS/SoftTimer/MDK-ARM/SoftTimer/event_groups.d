@@ -1,0 +1,16 @@
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+softtimer\event_groups.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+softtimer\event_groups.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+softtimer\event_groups.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+softtimer\event_groups.o: ../Inc/FreeRTOSConfig.h
+softtimer\event_groups.o: ../Inc/mxconstants.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+softtimer\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

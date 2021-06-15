@@ -1,0 +1,16 @@
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+softtimer\timers.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+softtimer\timers.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+softtimer\timers.o: C:\Keil5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+softtimer\timers.o: ../Inc/FreeRTOSConfig.h
+softtimer\timers.o: ../Inc/mxconstants.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+softtimer\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
